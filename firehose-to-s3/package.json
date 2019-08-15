@@ -1,0 +1,9 @@
+{
+  "name": "test-serverless",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/mocha": "^5.2.7",
+    "aws-sdk": "^2.482.0",
+    "mocha": "^6.2.0"
+  }
+}
